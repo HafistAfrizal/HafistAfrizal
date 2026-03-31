@@ -27,8 +27,6 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=30&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Hafist+Afrizal;It's+nice+to+meet+you!;I'm+straight" alt="Typing SVG" /></a>
 </div>
 
-######
-
 <div align="center">
   <a href="https://www.instagram.com/ryizzl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -45,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HafistAfrizal.HafistAfrizal&left_color=maroon&right_color=maroon&left_text=Human" height="25"/>
 </div>
 
-######
+###
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
@@ -79,9 +77,9 @@ Here are some ideas to get you started:
 
 </div>
 
-###
+##
 
-### 👨‍💻 `whoami`
+## 👨‍💻 `whoami`
 
 ```json
 {
@@ -89,17 +87,19 @@ Here are some ideas to get you started:
   "education": "Informatics Engineering",
   "background": ["Automotive Engineering", "Mechanic"],
   "philosophy": "Stoicism",
-  "email": "[EMAIL_ADDRESS]"
+  "email": "hafisafrizal16@gmail.com"
 }
 ```
 
-<h3 align="left">🗺️ The Journey So Far</h3>
+###
+
+<h2 align="left">🗺️ The Journey So Far</h2>
 
 <p>I started my hands-on journey as a mechanic, learning how complex mechanical systems work from the inside out. Today, I apply that same problem-solving mindset to System Architecture and Web-Development. Whether it's diagnosing an engine or debugging, I love figuring out how things connect. </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5-logo"  />
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h2 align="left">🔥   My Stats</h2>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=HafistAfrizal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
