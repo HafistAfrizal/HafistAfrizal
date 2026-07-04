@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="about-me" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=30&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Hafist+Afrizal;It's+nice+to+meet+you!;I'm+straight" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=30&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Hafist+Afrizal;It's+nice+to+meet+you+dude!;" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
